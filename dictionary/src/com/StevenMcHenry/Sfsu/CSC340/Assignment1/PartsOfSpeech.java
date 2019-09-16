@@ -1,14 +1,14 @@
 package com.StevenMcHenry.Sfsu.CSC340.Assignment1;
 
 public enum PartsOfSpeech {
-    ADVERB("Adverb"),
-    ADJECTIVE("Adjective"),
-    NOUN("Noun"),
-    CONJUNCTION("Conjunction"),
-    INTERJECTION("Interjection"),
-    PREPOSITION("Preposition"),
-    VERB("Verb"),
-    PRONOUN("Pronoun");
+    ADVERB("[adverb]"),
+    ADJECTIVE("[adjective]"),
+    NOUN("[noun]"),
+    CONJUNCTION("[conjunction]"),
+    INTERJECTION("[interjection]"),
+    PREPOSITION("[preposition]"),
+    VERB("[verb]"),
+    PRONOUN("[pronoun]");
 
     private String value;
 

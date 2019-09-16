@@ -8,8 +8,8 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 class DictionaryTester {
 
     private static int totalScore, extraCredit;
-    private final String ERROR_ONE = "<Not found in dictionary>";
-    private final String ERROR_TWO = "<Second argument must be part of speech or \'distinct\'>";
+    private final String ERROR_ONE = "<Not found>";
+    private final String ERROR_TWO = "<2nd argument must be part of speech or \"distinct\">";
     private static Dictionary d;
 
     @BeforeAll
@@ -68,16 +68,18 @@ class DictionaryTester {
         assertEquals(testArray, d.querryDictionary("boOkAble", null, false), "Make sure the Order is correct");
 
         testArray.clear();
-        testArray.add("Book [noun] : To arrange for someone to have a seat on a plane.");
-        testArray.add("Book [noun] : To arrange something on a particular date.");
+        testArray.add("Book [noun] : A set of pages.");
+        testArray.add("Book [noun] : A written work published in printed or electronic form.");
+        testArray.add("Book [verb] : To arrange for someone to have a seat on a plane.");
+        testArray.add("Book [verb] : To arrange something on a particular date.");
         assertEquals(testArray, d.querryDictionary("book", null, false), "Make sure the Order is correct");
 
 
         testArray.clear();
         testArray.add("CSC340 [adjective] : = C++ version of CSC210 + CSC220 + more.");
-        testArray.add("CSC340 [noun] : A CS upper division course");
+        testArray.add("CSC340 [noun] : A CS upper division course.");
         testArray.add("CSC340 [noun] : Many hours outside of class.");
-        testArray.add("CSC340 [noun] : Programming Methodology");
+        testArray.add("CSC340 [noun] : Programming Methodology.");
         assertEquals(testArray, d.querryDictionary("csC340", null, false), "Make sure the Order is correct");
 
         totalScore += 10;
@@ -87,9 +89,9 @@ class DictionaryTester {
     @Test
     void testTypeOfSpeech() {
         ArrayList<String> testArray = new ArrayList<String>();
-        testArray.add("CSC340 [noun] : A CS upper division course");
+        testArray.add("CSC340 [noun] : A CS upper division course.");
         testArray.add("CSC340 [noun] : Many hours outside of class.");
-        testArray.add("CSC340 [noun] : Programming Methodology");
+        testArray.add("CSC340 [noun] : Programming Methodology.");
         assertEquals(testArray, d.querryDictionary("CSC340", "noun", false), "Make sure you have the correct types of speech");
 
         testArray.clear();
@@ -124,9 +126,9 @@ class DictionaryTester {
         assertEquals(testArray, d.querryDictionary("Placeholder", "noun", true), "Should only be one item");
         testArray.clear();
 
-        testArray.add("CSC340 [noun] : A CS upper division course");
+        testArray.add("CSC340 [noun] : A CS upper division course.");
         testArray.add("CSC340 [noun] : Many hours outside of class.");
-        testArray.add("CSC340 [noun] : Programming Methodology");
+        testArray.add("CSC340 [noun] : Programming Methodology.");
         assertEquals(testArray, d.querryDictionary("CSC340", "noun", true), "Should have three items");
         testArray.clear();
 

@@ -7,6 +7,7 @@ public enum Keywords {
     CSC340("CSC340"),
     CSC220("CSC220"),
     BOOK("Book"),
+    BOOKABLE("Bookable"),
     ADVERB("Adverb"),
     ADJECTIVE("Adjective"),
     INTERJECTION("Interjection"),

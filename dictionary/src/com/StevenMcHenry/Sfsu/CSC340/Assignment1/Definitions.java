@@ -5,7 +5,7 @@ public enum Definitions {
     DEF2("Unique. No duplicates. Clearly different or of a different kind."),
     DEF3("Uniquely. Written \"distinctly\"."),
     DEF4("A keyword in this assignment."),
-    DEF5(" An advanced search option."),
+    DEF5("An advanced search option."),
     DEF6("Distinct is a parameter in this assignment."),
     DEF7("To be updated..."),
     DEF8("= C++ version of CSC210 + CSC220 + more."),
@@ -27,7 +27,9 @@ public enum Definitions {
             "emotion. Oh!, Look out! and Ow! are interjections."),
     DEF22("Noun is a word that refers to a person, (such as Ann or doctor), a place (such as Paris\n" +
             "or city) or a thing, a quality or an activity (such as plant, sorrow or tennis."),
-    DEF23("Here is one arrow: <IMG> -=>> </IMG>");
+    DEF23("Here is one arrow: <IMG> -=>> </IMG>"),
+    DEF24("Data Structures."),
+    DEF25("Can be ordered in advance.");
 
     private String value;
 
