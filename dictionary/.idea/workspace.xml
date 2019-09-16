@@ -3,19 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2d72409b-6151-409d-8e56-86c468f154f3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionary.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dictionary.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dictionary/com/StevenMcHenry/Sfsu/CSC340/Assignment1/Definitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dictionary/com/StevenMcHenry/Sfsu/CSC340/Assignment1/Definitions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dictionary/com/StevenMcHenry/Sfsu/CSC340/Assignment1/Dictionary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dictionary/com/StevenMcHenry/Sfsu/CSC340/Assignment1/Dictionary.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dictionary/com/StevenMcHenry/Sfsu/CSC340/Assignment1/DictionaryTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dictionary/com/StevenMcHenry/Sfsu/CSC340/Assignment1/DictionaryTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dictionary/com/StevenMcHenry/Sfsu/CSC340/Assignment1/Keywords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dictionary/com/StevenMcHenry/Sfsu/CSC340/Assignment1/Keywords.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dictionary/com/StevenMcHenry/Sfsu/CSC340/Assignment1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dictionary/com/StevenMcHenry/Sfsu/CSC340/Assignment1/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dictionary/com/StevenMcHenry/Sfsu/CSC340/Assignment1/PartsOfSpeech.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dictionary/com/StevenMcHenry/Sfsu/CSC340/Assignment1/PartsOfSpeech.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/StevenMcHenry/Sfsu/CSC340/Assignment1/Definitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/StevenMcHenry/Sfsu/CSC340/Assignment1/Definitions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/StevenMcHenry/Sfsu/CSC340/Assignment1/Dictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/StevenMcHenry/Sfsu/CSC340/Assignment1/Dictionary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/StevenMcHenry/Sfsu/CSC340/Assignment1/DictionaryTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/StevenMcHenry/Sfsu/CSC340/Assignment1/DictionaryTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/StevenMcHenry/Sfsu/CSC340/Assignment1/Keywords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/StevenMcHenry/Sfsu/CSC340/Assignment1/Keywords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/StevenMcHenry/Sfsu/CSC340/Assignment1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/StevenMcHenry/Sfsu/CSC340/Assignment1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/StevenMcHenry/Sfsu/CSC340/Assignment1/PartsOfSpeech.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/StevenMcHenry/Sfsu/CSC340/Assignment1/PartsOfSpeech.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
