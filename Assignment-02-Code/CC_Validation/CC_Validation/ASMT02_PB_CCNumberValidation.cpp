@@ -24,7 +24,7 @@ int main()
 			"5556551555555557", "6011316011016011"};
 
 	int i;
-	vector<string>::iterator itr;
+    vector<string>::iterator itr;
 
 	for (i = 1, itr = cardnumbers.begin(); itr != cardnumbers.end(); ++itr, i++) {
 		cout << setw(2)  << i << " "
@@ -56,7 +56,7 @@ int doubleEvens(string cNum) {
 	for (int i = (int)cNum.length(); i > 1; i -= 2) {
 		char tempChar = cNum[i - 2];
         // convert the char into its corresponding interger value, then multiply by 2
-		int temp = (tempChar - '0') * 2;
+        int temp = (tempChar - '0') * 2;
         // check for double digit
 		if (temp >= 10) {
 			int secondDigit = temp - 10;

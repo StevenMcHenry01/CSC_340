@@ -2,6 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d72409b-6151-409d-8e56-86c468f154f3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Assignment-02-Code/CC_Validation/CC_Validation.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment-02-Code/CC_Validation/CC_Validation.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment-02-Code/CC_Validation/CC_Validation.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment-02-Code/CC_Validation/CC_Validation.xcodeproj/project.xcworkspace/xcuserdata/stevenmchenry.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment-02-Code/CC_Validation/CC_Validation.xcodeproj/xcuserdata/stevenmchenry.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment-02-Code/dictionary/dictionary.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment-02-Code/dictionary/dictionary.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment-02-Code/dictionary/dictionary.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment-02-Code/dictionary/dictionary.xcodeproj/project.xcworkspace/xcuserdata/stevenmchenry.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment-02-Code/dictionary/dictionary.xcodeproj/xcuserdata/stevenmchenry.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment-02-Code/dictionary/dictionary/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment-02-Code/tic_tac_toe/tic_tac_toe.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment-02-Code/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment-02-Code/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment-02-Code/.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment-02-Code/ASMT02_PA_TicTacToe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment-02-Code/ASMT02_PA_TicTacToe.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment-02-Code/ASMT02_PB_CCNumberValidation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment-02-Code/ASMT02_PB_CCNumberValidation.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment-02-Code/ASMT02_PB_CCNumberValidation.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment-02-Code/a.out" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
