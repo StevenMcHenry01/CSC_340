@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/stevenmchenry/dev/Sfsu/CSC_340/Assignment-02-Code/tic_tac_toe/tic_tac_toe/ASMT02_PA_TicTacToe.cpp
+iostream
+-
+
